@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" modified="2024-01-08T20:35:38.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PEKGI1lDp3VQN0hNVHF8" version="22.1.17" type="google">
+  <diagram name="第 1 页" id="P1oDKa9NT9KyN27-H5X_">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;select_over.py&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;輸入數字&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-7" target="1T9nVLKTf2Pf4TXYpxLL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-7" target="1T9nVLKTf2Pf4TXYpxLL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;是否超過清單選項數&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="220" width="167.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-9" target="1T9nVLKTf2Pf4TXYpxLL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-9" value="是" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-11" target="1T9nVLKTf2Pf4TXYpxLL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;否&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-13" target="1T9nVLKTf2Pf4TXYpxLL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.5" y="430" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+              <mxPoint x="310" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;請輸入正確的選項，True&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="430" width="143" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1T9nVLKTf2Pf4TXYpxLL-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-15" value="None" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1T9nVLKTf2Pf4TXYpxLL-16" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="75" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
