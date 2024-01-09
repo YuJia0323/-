@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" modified="2024-01-08T20:27:08.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iKfgTX4PMScYd801cX5h" version="22.1.17" type="google">
+  <diagram name="第 1 页" id="q1xyZwzY4B7tV3cmMa8D">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WWf-PWXE3gnkTKDsmN27-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;輸入(記帳)金額&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-6" target="WWf-PWXE3gnkTKDsmN27-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-6" target="WWf-PWXE3gnkTKDsmN27-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;格式是否正確(只允許整數)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="370" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-8" target="WWf-PWXE3gnkTKDsmN27-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-8" value="是" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="490" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-10" target="WWf-PWXE3gnkTKDsmN27-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-10" value="輸入金額結束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153.75" y="585" width="112.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-12" target="WWf-PWXE3gnkTKDsmN27-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-12" value="否" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WWf-PWXE3gnkTKDsmN27-14" target="WWf-PWXE3gnkTKDsmN27-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="672.957405097547" as="sourcePoint" />
+            <mxPoint x="379" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="449" y="625" />
+              <mxPoint x="449" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-14" value="格式不對(重新輸入)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="585" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-15" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWf-PWXE3gnkTKDsmN27-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;amount_input.py&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;labelBackgroundColor=#fdfcfc;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
